@@ -1,0 +1,3 @@
+[submodule "Android-Tutorial"]
+	path = Android-Tutorial
+	url = git@github.com:ISabariRajan/Android-Tutorial.git
